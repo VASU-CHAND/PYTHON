@@ -1,3 +1,3 @@
 import numpy as np
-arr = np.sqrt([1,2,3,4,5,6,7])
+arr = np.ones((2,3))
 print(arr)
