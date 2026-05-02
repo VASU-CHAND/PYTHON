@@ -1,5 +1,0 @@
-name= input("enter name ")
-age = int(input("enetr the age"))
-print("my name is {} and i am {} years old".format(name,age))
-print(type(age))
-print(id(age))
